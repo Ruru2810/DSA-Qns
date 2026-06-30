@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Ruru2810/DSA-Qns/tree/main/0066-plus-one/) | Easy |
+| [0896-monotonic-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0896-monotonic-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
