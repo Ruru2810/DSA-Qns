@@ -12,9 +12,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Ruru2810/DSA-Qns/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Ruru2810/DSA-Qns/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ruru2810/DSA-Qns/tree/main/0001-two-sum/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Ruru2810/DSA-Qns/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
