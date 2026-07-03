@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Ruru2810/DSA-Qns/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Ruru2810/DSA-Qns/tree/main/0011-container-with-most-water/) | Medium |
 | [0066-plus-one](https://github.com/Ruru2810/DSA-Qns/tree/main/0066-plus-one/) | Easy |
+| [0169-majority-element](https://github.com/Ruru2810/DSA-Qns/tree/main/0169-majority-element/) | Easy |
 | [0896-monotonic-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0896-monotonic-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ruru2810/DSA-Qns/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/Ruru2810/DSA-Qns/tree/main/0169-majority-element/) | Easy |
 | [0389-find-the-difference](https://github.com/Ruru2810/DSA-Qns/tree/main/0389-find-the-difference/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Ruru2810/DSA-Qns/tree/main/0169-majority-element/) | Easy |
 | [0389-find-the-difference](https://github.com/Ruru2810/DSA-Qns/tree/main/0389-find-the-difference/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -55,4 +58,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ruru2810/DSA-Qns/tree/main/0011-container-with-most-water/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Ruru2810/DSA-Qns/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Ruru2810/DSA-Qns/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
