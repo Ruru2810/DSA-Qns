@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Ruru2810/DSA-Qns/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/Ruru2810/DSA-Qns/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0268-missing-number/) | Easy |
+| [0507-perfect-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0507-perfect-number/) | Easy |
 | [0908-smallest-range-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0908-smallest-range-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
