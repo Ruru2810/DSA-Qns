@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Ruru2810/DSA-Qns/tree/main/0724-find-pivot-index/) | Easy |
 | [0896-monotonic-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0896-monotonic-array/) | Easy |
 | [0908-smallest-range-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0908-smallest-range-i/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0509-fibonacci-number/) | Easy |
 | [0908-smallest-range-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0908-smallest-range-i/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
