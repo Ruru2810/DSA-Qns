@@ -17,15 +17,16 @@
 
 
 
+
 class Solution {
     public int arraySign(int[] nums) {
         int sign = 1;
         
-        for (int num : nums) {
-            if (num == 0) {
-                return 0; // Anything multiplied by 0 is 0
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 0) {
+                return 0; // Any number multiplied by 0 is 0
             }
-            if (num < 0) {
+            if (nums[i] < 0) {
                 sign = -sign; // Flip the sign for every negative number
             }
         }
