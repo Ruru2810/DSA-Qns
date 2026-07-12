@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0509-fibonacci-number/) | Easy |
 | [0908-smallest-range-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0908-smallest-range-i/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ruru2810/DSA-Qns/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ruru2810/DSA-Qns/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## Hash Table
