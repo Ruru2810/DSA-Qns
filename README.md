@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/Ruru2810/DSA-Qns/tree/main/0860-lemonade-change/) | Easy |
 | [0896-monotonic-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0896-monotonic-array/) | Easy |
 | [0908-smallest-range-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0908-smallest-range-i/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ruru2810/DSA-Qns/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ruru2810/DSA-Qns/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ruru2810/DSA-Qns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ruru2810/DSA-Qns/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0496-next-greater-element-i/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ruru2810/DSA-Qns/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ruru2810/DSA-Qns/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/Ruru2810/DSA-Qns/tree/main/0455-assign-cookies/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ruru2810/DSA-Qns/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Ruru2810/DSA-Qns/tree/main/0724-find-pivot-index/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ruru2810/DSA-Qns/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
