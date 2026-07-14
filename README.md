@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Ruru2810/DSA-Qns/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ruru2810/DSA-Qns/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0496-next-greater-element-i/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Ruru2810/DSA-Qns/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Ruru2810/DSA-Qns/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Ruru2810/DSA-Qns/tree/main/0860-lemonade-change/) | Easy |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ruru2810/DSA-Qns/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0268-missing-number/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Ruru2810/DSA-Qns/tree/main/0704-binary-search/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
