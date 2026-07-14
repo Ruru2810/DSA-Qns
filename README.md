@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ruru2810/DSA-Qns/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ruru2810/DSA-Qns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2974-minimum-number-game](https://github.com/Ruru2810/DSA-Qns/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/Ruru2810/DSA-Qns/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ruru2810/DSA-Qns/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ruru2810/DSA-Qns/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ruru2810/DSA-Qns/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [3024-type-of-triangle](https://github.com/Ruru2810/DSA-Qns/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ruru2810/DSA-Qns/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ruru2810/DSA-Qns/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2974-minimum-number-game](https://github.com/Ruru2810/DSA-Qns/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/Ruru2810/DSA-Qns/tree/main/3024-type-of-triangle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
