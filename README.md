@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ruru2810/DSA-Qns/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ruru2810/DSA-Qns/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Ruru2810/DSA-Qns/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ruru2810/DSA-Qns/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Ruru2810/DSA-Qns/tree/main/2652-sum-multiples/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Ruru2810/DSA-Qns/tree/main/0258-add-digits/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Ruru2810/DSA-Qns/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
