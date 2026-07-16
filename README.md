@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3024-type-of-triangle](https://github.com/Ruru2810/DSA-Qns/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/Ruru2810/DSA-Qns/tree/main/3099-harshad-number/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ruru2810/DSA-Qns/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/Ruru2810/DSA-Qns/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ruru2810/DSA-Qns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ruru2810/DSA-Qns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3110-score-of-a-string](https://github.com/Ruru2810/DSA-Qns/tree/main/3110-score-of-a-string/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/Ruru2810/DSA-Qns/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
