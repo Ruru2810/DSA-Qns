@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Ruru2810/DSA-Qns/tree/main/0125-valid-palindrome/) | Easy |
 | [0389-find-the-difference](https://github.com/Ruru2810/DSA-Qns/tree/main/0389-find-the-difference/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Ruru2810/DSA-Qns/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1816-truncate-sentence](https://github.com/Ruru2810/DSA-Qns/tree/main/1816-truncate-sentence/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ruru2810/DSA-Qns/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ruru2810/DSA-Qns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
