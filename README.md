@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Ruru2810/DSA-Qns/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ruru2810/DSA-Qns/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Ruru2810/DSA-Qns/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ruru2810/DSA-Qns/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0496-next-greater-element-i/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Ruru2810/DSA-Qns/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ruru2810/DSA-Qns/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Ruru2810/DSA-Qns/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Ruru2810/DSA-Qns/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
