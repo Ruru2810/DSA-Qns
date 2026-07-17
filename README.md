@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Ruru2810/DSA-Qns/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ruru2810/DSA-Qns/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Ruru2810/DSA-Qns/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Ruru2810/DSA-Qns/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Ruru2810/DSA-Qns/tree/main/0860-lemonade-change/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ruru2810/DSA-Qns/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0908-smallest-range-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0908-smallest-range-i/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ruru2810/DSA-Qns/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ruru2810/DSA-Qns/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Ruru2810/DSA-Qns/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Ruru2810/DSA-Qns/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ruru2810/DSA-Qns/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Ruru2810/DSA-Qns/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ruru2810/DSA-Qns/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
