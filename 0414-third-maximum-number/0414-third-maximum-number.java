@@ -1,12 +1,12 @@
 class Solution {
     public int thirdMax(int[] nums) {
         Arrays.sort(nums);
-        int distinctCount = 1; 
+        int Count = 1; 
         for (int i = nums.length - 1; i > 0; i--) {
             if (nums[i] != nums[i - 1]) {
-                distinctCount++;
+                Count++;
             }
-            if (distinctCount == 3) {
+            if (Count == 3) {
                 return nums[i - 1];
             }
         }
