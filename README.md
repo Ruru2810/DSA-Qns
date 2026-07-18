@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ruru2810/DSA-Qns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ruru2810/DSA-Qns/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Ruru2810/DSA-Qns/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Ruru2810/DSA-Qns/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/Ruru2810/DSA-Qns/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ruru2810/DSA-Qns/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ruru2810/DSA-Qns/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ruru2810/DSA-Qns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ruru2810/DSA-Qns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Ruru2810/DSA-Qns/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Ruru2810/DSA-Qns/tree/main/3110-score-of-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Ruru2810/DSA-Qns/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Bit Manipulation
