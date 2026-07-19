@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-smallest-range-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0908-smallest-range-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ruru2810/DSA-Qns/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ruru2810/DSA-Qns/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1816-truncate-sentence](https://github.com/Ruru2810/DSA-Qns/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ruru2810/DSA-Qns/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ruru2810/DSA-Qns/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ruru2810/DSA-Qns/tree/main/0724-find-pivot-index/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ruru2810/DSA-Qns/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,4 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/Ruru2810/DSA-Qns/tree/main/2974-minimum-number-game/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ruru2810/DSA-Qns/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
