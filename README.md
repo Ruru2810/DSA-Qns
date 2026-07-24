@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Ruru2810/DSA-Qns/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Ruru2810/DSA-Qns/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruru2810/DSA-Qns/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/Ruru2810/DSA-Qns/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Ruru2810/DSA-Qns/tree/main/0125-valid-palindrome/) | Easy |
 | [0389-find-the-difference](https://github.com/Ruru2810/DSA-Qns/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/Ruru2810/DSA-Qns/tree/main/0392-is-subsequence/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Ruru2810/DSA-Qns/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ruru2810/DSA-Qns/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Ruru2810/DSA-Qns/tree/main/1678-goal-parser-interpretation/) | Easy |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Ruru2810/DSA-Qns/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ruru2810/DSA-Qns/tree/main/0125-valid-palindrome/) | Easy |
+| [0392-is-subsequence](https://github.com/Ruru2810/DSA-Qns/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Ruru2810/DSA-Qns/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Ruru2810/DSA-Qns/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
