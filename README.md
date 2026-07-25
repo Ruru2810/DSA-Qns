@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ruru2810/DSA-Qns/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ruru2810/DSA-Qns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ruru2810/DSA-Qns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Ruru2810/DSA-Qns/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ruru2810/DSA-Qns/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ruru2810/DSA-Qns/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ruru2810/DSA-Qns/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ruru2810/DSA-Qns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ruru2810/DSA-Qns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Ruru2810/DSA-Qns/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ruru2810/DSA-Qns/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Ruru2810/DSA-Qns/tree/main/3110-score-of-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Ruru2810/DSA-Qns/tree/main/3280-convert-date-to-binary/) | Easy |
