@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Ruru2810/DSA-Qns/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ruru2810/DSA-Qns/tree/main/0125-valid-palindrome/) | Easy |
 | [0389-find-the-difference](https://github.com/Ruru2810/DSA-Qns/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Ruru2810/DSA-Qns/tree/main/0392-is-subsequence/) | Easy |
