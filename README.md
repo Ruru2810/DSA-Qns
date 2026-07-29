@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3024-type-of-triangle](https://github.com/Ruru2810/DSA-Qns/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/Ruru2810/DSA-Qns/tree/main/3099-harshad-number/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ruru2810/DSA-Qns/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3270-find-the-key-of-the-numbers](https://github.com/Ruru2810/DSA-Qns/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Ruru2810/DSA-Qns/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ruru2810/DSA-Qns/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Hash Table
