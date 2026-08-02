@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/Ruru2810/DSA-Qns/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ruru2810/DSA-Qns/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ruru2810/DSA-Qns/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ruru2810/DSA-Qns/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ruru2810/DSA-Qns/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ruru2810/DSA-Qns/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/Ruru2810/DSA-Qns/tree/main/1816-truncate-sentence/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0496-next-greater-element-i/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ruru2810/DSA-Qns/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ruru2810/DSA-Qns/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ruru2810/DSA-Qns/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Ruru2810/DSA-Qns/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ruru2810/DSA-Qns/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ruru2810/DSA-Qns/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ruru2810/DSA-Qns/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [2974-minimum-number-game](https://github.com/Ruru2810/DSA-Qns/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/Ruru2810/DSA-Qns/tree/main/3024-type-of-triangle/) | Easy |
