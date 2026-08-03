@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Ruru2810/DSA-Qns/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Ruru2810/DSA-Qns/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Ruru2810/DSA-Qns/tree/main/0860-lemonade-change/) | Easy |
+| [0877-stone-game](https://github.com/Ruru2810/DSA-Qns/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Ruru2810/DSA-Qns/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0908-smallest-range-i/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ruru2810/DSA-Qns/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Ruru2810/DSA-Qns/tree/main/0877-stone-game/) | Medium |
 | [0908-smallest-range-i](https://github.com/Ruru2810/DSA-Qns/tree/main/0908-smallest-range-i/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ruru2810/DSA-Qns/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ruru2810/DSA-Qns/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruru2810/DSA-Qns/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Ruru2810/DSA-Qns/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ruru2810/DSA-Qns/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/Ruru2810/DSA-Qns/tree/main/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ruru2810/DSA-Qns/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Ruru2810/DSA-Qns/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
