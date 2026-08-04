@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ruru2810/DSA-Qns/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/Ruru2810/DSA-Qns/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ruru2810/DSA-Qns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ruru2810/DSA-Qns/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ruru2810/DSA-Qns/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ruru2810/DSA-Qns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ruru2810/DSA-Qns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Ruru2810/DSA-Qns/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/Ruru2810/DSA-Qns/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Ruru2810/DSA-Qns/tree/main/0860-lemonade-change/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ruru2810/DSA-Qns/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
