@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Ruru2810/DSA-Qns/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ruru2810/DSA-Qns/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/Ruru2810/DSA-Qns/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ruru2810/DSA-Qns/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ruru2810/DSA-Qns/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ruru2810/DSA-Qns/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Ruru2810/DSA-Qns/tree/main/0258-add-digits/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/Ruru2810/DSA-Qns/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ruru2810/DSA-Qns/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2974-minimum-number-game](https://github.com/Ruru2810/DSA-Qns/tree/main/2974-minimum-number-game/) | Easy |
 ## Number Theory
