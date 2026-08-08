@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Ruru2810/DSA-Qns/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Ruru2810/DSA-Qns/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ruru2810/DSA-Qns/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Ruru2810/DSA-Qns/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Ruru2810/DSA-Qns/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Ruru2810/DSA-Qns/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ruru2810/DSA-Qns/tree/main/0088-merge-sorted-array/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ruru2810/DSA-Qns/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Ruru2810/DSA-Qns/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Ruru2810/DSA-Qns/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruru2810/DSA-Qns/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Ruru2810/DSA-Qns/tree/main/0392-is-subsequence/) | Easy |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ruru2810/DSA-Qns/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Ruru2810/DSA-Qns/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Ruru2810/DSA-Qns/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Ruru2810/DSA-Qns/tree/main/0860-lemonade-change/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ruru2810/DSA-Qns/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
