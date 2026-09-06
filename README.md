@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1389-create-target-array-in-the-given-order](https://github.com/Ruru2810/DSA-Qns/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ruru2810/DSA-Qns/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ruru2810/DSA-Qns/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1470-shuffle-the-array](https://github.com/Ruru2810/DSA-Qns/tree/main/1470-shuffle-the-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ruru2810/DSA-Qns/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ruru2810/DSA-Qns/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/Ruru2810/DSA-Qns/tree/main/1816-truncate-sentence/) | Easy |
